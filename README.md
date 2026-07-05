@@ -113,8 +113,8 @@ Aplikasi akan tersedia di `http://127.0.0.1:8000`.
 
 ## Author
 
-- **zidni-20**
-- Email: `muhammadzidninur@gmail.com`
+- **Nama : Muhammad Zidni Nur**
+- **NIM : 60324014**
 
 ## Catatan
 
